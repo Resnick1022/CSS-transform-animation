@@ -1,0 +1,12 @@
+button{
+  width:auto;
+  height:auto;
+  background-color:ghostwhite;
+  transition: background-color 2s ease-in-out;
+  
+}
+button:hover{
+    background-color:cornflowerblue;
+    color: white;
+    transition: background-color 2s ease-in-out;
+}
